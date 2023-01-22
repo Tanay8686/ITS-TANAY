@@ -14,7 +14,7 @@
 .about-header {text-align: center;color: azure;font-family: Arial;letter-spacing: 2px;font-size: 60px;}
 .about-text {color: bisque;font-family: sans-serif;padding-top: 30px;font-size: 140%;padding-bottom: 20px;}
 .about-pic {padding-left: 30px;padding-right: 40px;width: 240px;height: auto;}
-.ytlink {color: white;text-decoration: none;font-family: Arial;font-size: 60%;text-align: center;background-color: rgb(21, 21, 196);padding: 20px;border-radius: 30px;margin-bottom: 20px;}
+.ytlink {color: white;text-decoration: none;font-family: Arial;font-size: 60%;text-align: center;background-color: rgb(21, 21, 196);padding: 20px;border-radius: 30px;margin-bottom: 20px;width: 10px;}
 .myskillscontainer {overflow: hidden;}
 .myskillsh {text-align: center;padding-top: 80px;font-family: Arial;letter-spacing: 2px;font-size: 360%;}
 .skillnote {text-align: center;font-family: Arial;letter-spacing: 2px;}
