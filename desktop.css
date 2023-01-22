@@ -12,7 +12,7 @@
 .name:hover {text-shadow: 15px 15px rgb(173, 171, 171);transition: .3s;}
 .name:hover::after {text-shadow: 8px 8px rgb(173, 171, 171);transition: .3s;}
 .about-box {background-color: rgb(17, 17, 17);padding: 30px;display: flex;}
-.about-container {padding-top: 100px;overflow: hidden;height: 680px;}
+.about-container {padding-top: 100px;overflow: hidden;height: 640px;}
 .about-header {text-align: center;color: azure;font-family: Arial;letter-spacing: 2px;font-size: 60px;}
 .about-text {color: bisque;font-family: sans-serif;padding-top: 30px;font-size: 140%;padding-bottom: 20px;}
 .about-pic {padding-left: 30px;padding-right: 40px;}
