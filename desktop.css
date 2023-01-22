@@ -11,7 +11,7 @@
 .name {color: rgb(44, 43, 43);font-family: Georgia;font-size: 400%;text-align: center;letter-spacing: 4px;text-shadow: 8px 8px rgb(173, 171, 171);}
 .name:hover {text-shadow: 15px 15px rgb(173, 171, 171);transition: .3s;}
 .name:hover::after {text-shadow: 8px 8px rgb(173, 171, 171);transition: .3s;}
-.about-box {background-color: rgb(17, 17, 17);padding: 30px;display: flex;height: 520px;}
+.about-box {background-color: rgb(17, 17, 17);padding: 30px;display: flex;height: 550px;}
 .about-container {padding-top: 100px;overflow: hidden;height: 640px;}
 .about-header {text-align: center;color: azure;font-family: Arial;letter-spacing: 2px;font-size: 60px;}
 .about-text {color: bisque;font-family: sans-serif;padding-top: 30px;font-size: 140%;padding-bottom: 20px;}
